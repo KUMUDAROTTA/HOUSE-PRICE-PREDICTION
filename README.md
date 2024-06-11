@@ -1,0 +1,1 @@
+The primary goal of this project is to build predictive models to estimate house prices based on various features. We will employ three different regression techniques: Linear Regression, Lasso Regression, and Random Forest Regressor. The performance of these models will be compared using Mean Squared Error (MSE) and R² score.
